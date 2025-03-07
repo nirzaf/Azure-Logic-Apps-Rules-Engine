@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Azure Logic Apps Rules Engine: Implementing Business Rules and Decision Management
 
 The Azure Logic Apps Rules Engine, currently in preview, represents a significant advancement in Microsoft's integration platform by bringing powerful business rules capabilities to cloud-based workflows. This engine enables organizations to separate complex business logic from their application code, making rules more maintainable and adaptable to changing business requirements. The implementation combines the flexibility of Azure Logic Apps with the structured decision-making capabilities of a dedicated rules engine, providing a comprehensive solution for business process automation with sophisticated decision management[^1][^2].
