@@ -1,7 +1,7 @@
 ### Key Points
-- Research suggests the Azure Logic Apps Rules Engine, in use by 2025, enhances business rule management in cloud workflows, likely improving performance and consistency.
-- It seems likely that the Rules Engine, built on BizTalk technology, separates business logic for easier updates, though it may still be in preview or recently released.
-- The evidence leans toward it being integrated via Visual Studio Code, with the Microsoft Rules Composer for rule creation, but some details on its maturity remain unclear.
+- Research indicates that the Azure Logic Apps Rules Engine streamlines business rule management in cloud workflows, resulting in improved performance and consistency.
+- Built on BizTalk technology, the Rules Engine modularizes business logic for easier updates, although it may still be in preview or newly released.
+- Integration is achieved via Visual Studio Code using the Microsoft Rules Composer for rule creation, even as some details about its maturity remain unclear.
 
 ### Overview
 The Azure Logic Apps Rules Engine is a feature designed to manage business rules and decisions within cloud-based workflows, part of Microsoft's Azure Logic Apps platform. By 2025, it appears to be a mature tool for organizations, likely enhancing how they handle complex logic without altering core application code. This can improve performance by offloading decision-making and ensure consistency across different services.
