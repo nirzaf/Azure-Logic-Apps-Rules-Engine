@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = myrules
+build_property.ProjectDir = C:\Users\THIS PC\source\repos\Azure Logic Apps Rules Engine\ruleswp\Function\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
