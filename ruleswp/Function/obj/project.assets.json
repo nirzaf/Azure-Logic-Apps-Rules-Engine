@@ -1122,7 +1122,6 @@
       "packagesPath": "C:\\Users\\THIS PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\THIS PC\\source\\repos\\Azure Logic Apps Rules Engine\\ruleswp\\Function\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\THIS PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -1149,7 +1148,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net472": {
